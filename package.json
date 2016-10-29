@@ -2,7 +2,7 @@
   "name": "query-plan-viewer",
   "version": "1.0.0",
   "description": "View SQL Server Query Execution Plans",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron ."
   },
