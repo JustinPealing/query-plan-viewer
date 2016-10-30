@@ -17,6 +17,7 @@
   "author": "Justin Pealing",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "electron": "^1.4.1",
+    "jquery": "^3.1.1"
   }
 }
